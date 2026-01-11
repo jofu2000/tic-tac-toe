@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Tic-Tac-Toe (C)
 
 
@@ -73,7 +72,3 @@ src/
 
 └── main.c (Game logic and main loop)
 
-=======
-# tic-tac-toe
-Terminal-based Tic-Tac-Toe game in C
->>>>>>> f34d023a3020353845bd1d2eb91a919364e677de
